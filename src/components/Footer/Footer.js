@@ -8,8 +8,8 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href='tel:+62877-1404-0567'>tel:+62877-1404-0567</LinkItem>
+          <LinkTitle>Whatsapp</LinkTitle>
+          <LinkItem href='https://api.whatsapp.com/send?phone=6282111086855'>+6282111086855 Chats Only</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>E-Mail</LinkTitle>

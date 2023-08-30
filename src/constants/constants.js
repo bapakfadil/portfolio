@@ -3,7 +3,7 @@ export const projects = [
     title: 'Ruang Kelas',
     description: "Ruang Kelas is a course registration app made by my team with Java Spring Boot for Metrodata Academy Final Project",
       image: '/images/5.png',
-      tags: ['Web', 'Java', 'Spring Boot'],
+      tags: ['Web', 'Java', 'SpringBoot'],
     source: 'https://github.com/bapakfadil/java-ruangkelas',
     visit: 'http://httpstat.us/404',
     id: 0,
